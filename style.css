@@ -57,6 +57,11 @@ header a {
   color: #4a2f6b;
 }
 
+#hero h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
 #hero h2 {
   font-size: 1.4rem;
   margin-bottom: 1rem;
